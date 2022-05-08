@@ -1,0 +1,13 @@
+.title {
+    color: #02ccba;
+  }
+  
+  body{
+      font-family:"Avenir Next";
+  }
+
+  .list{
+      font-size: 15px;
+      color:coral;
+      float: right;
+  }
